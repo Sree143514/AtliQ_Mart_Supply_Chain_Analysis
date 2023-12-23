@@ -20,19 +20,6 @@ Create the metrics according to the metrics list.
 Create a dashboard according to the requirements provided by stakeholders in the business review meeting. You will be provided with the transcript of this business review meeting in the form of a comic.
 Create relevant insights that are not provided in the metric list/stakeholder meeting.
 
-
-## Data Model 
-
-<p align="center">
-  <img src="https://github.com/Sree143514-S6/AtliQ_Mart_Supply_Chain_Analysis/blob/main/resources/data_model.png" height="400">
-</p>
-
-## Dashboard 
-
-<p align="center">
-  <img src="https://github.com/Sree143514-S6/AtliQ_Mart_Supply_Chain_Analysis/blob/main/resources/Dashboard.jpg" width="300">
-</p>
-
 ## Some Major Insights 
 
 - All the Key Metrics (OT%, IF%, OTIF%) are far behind the target
